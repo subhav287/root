@@ -1,1 +1,5 @@
-# root
+- db.sql contains the create table and insert statements that were used (MySql).
+- LoginextChallenge contains a project (also contains the .project file) and can be directly imported into an IDE as an existing project.
+- Used Spring Boot for app start up, running LoginextChallengeApplication.java will bring the application up.
+- Once the application is up, hitting http://localhost:8080/booking takes us to home screen and all navigation can be done from there on.
+- Testing screen for changing driver coordinates and/or driver availability was also added for basic testing scenarios.
